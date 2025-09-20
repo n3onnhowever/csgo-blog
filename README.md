@@ -8,7 +8,7 @@
 ```
 school-cs-project/
 │
-├── aleksandr.html      # Страница игрока
+├── aleksandr.html
 ├── fernando.html
 ├── gabriel.html
 ├── kenny.html
@@ -16,6 +16,6 @@ school-cs-project/
 ├── nicolai.html
 ├── nikola.html
 ├── havard.html
-├── *.jpg               # Изображения игроков и команд
-└── *.html 
-```  
+├── *.jpg
+└── *.html
+```
