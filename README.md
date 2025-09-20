@@ -17,5 +17,5 @@ school-cs-project/
 ├── nikola.html
 ├── havard.html
 ├── *.jpg               # Изображения игроков и команд
-└── index.html (можно добавить как главную страницу)
+└── *.html 
 ```  
